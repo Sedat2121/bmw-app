@@ -1,2 +1,0 @@
-# bmw-app
-simple project
